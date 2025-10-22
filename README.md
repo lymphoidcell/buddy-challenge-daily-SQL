@@ -5,7 +5,7 @@ Gue bingung harus mulai nulis darimana...
 But... WELCOME! This repository documents a structured daily SQL challenge completed by Kak Fathia & I (Phanie).
 Each day, we both will solve the same SQL problem independently and then compare our solutions to learn different query approaches and optimization techniques.
 
-Pray for us to keep being consistent (pretty please...) lmao. 
+Pray for us to stay consistent (pretty please...) lmao. 
 
 ---
 
