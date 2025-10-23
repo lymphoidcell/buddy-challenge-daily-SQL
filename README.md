@@ -23,7 +23,7 @@ To build consistent SQL problem-solving habits, improve query efficiency, and en
 ## Folder Structure
 
 ```
-daily-sql-duo/
+buddy-challenge-daily-SQL/
 ├── README.md
 ├── problems/              # Daily challenge descriptions
 ├── solutions/             # SQL solutions per participant
